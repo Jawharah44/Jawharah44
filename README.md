@@ -4,7 +4,6 @@
 <p align="center">
 🛠 Currently working on data integration & automation projects <br>
 ❄️ Working with tools like Airflow, SQL, Docker <br>
-📚 Outside work, you’ll find me reading books, or hanging out with my cat
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
