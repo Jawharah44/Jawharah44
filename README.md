@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jawharah</h1>
-<h3 align="center">A passionate Data Engineer from Saudi Arabia</h3>
+<h3 align="center">A passionate Data Engineer</h3>
 
 <p align="center">
 🛠 Currently working on data integration & automation projects <br>
